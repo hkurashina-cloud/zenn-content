@@ -1,5 +1,5 @@
 ---
-title: "PortSwigger: ログイン機能のSQLiで認証をバイパスする（administrator'--）"
+title: "PortSwigger: SQL injection vulnerability allowing login bypass"
 emoji: "🔓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ctf", "portswigger", "sqli", "security"]
